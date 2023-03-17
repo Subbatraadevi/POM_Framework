@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNgMavenExampleSuite]">
+  <test thread-count="5" name="TestNgMavenTest(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="aliexpress.tests.Workflow">
+        <methods>
+          <include name="teardown"/>
+          <include name="Buttheproductproductpagevalidation"/>
+          <include name="searchresultpagevalidation"/>
+          <include name="searchproduct"/>
+        </methods>
+      </class> <!-- aliexpress.tests.Workflow -->
+    </classes>
+  </test> <!-- TestNgMavenTest(failed) -->
+</suite> <!-- Failed suite [TestNgMavenExampleSuite] -->

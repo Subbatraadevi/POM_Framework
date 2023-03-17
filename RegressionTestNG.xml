@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Aliexpress" parallel="false">
+<listeners>  
+<listener class-name="com.aliexpress.utilities.Listener"/>  
+</listeners>  
+  <test name="AliexpressSuite">
+   <groups>		
+   <run>		
+    <include name="smoke" />		
+   </run>		
+  </groups>
+  
+    <classes>
+      <class name="aliexpress.tests.AliExpressWorkflow"/>
+      
+    </classes>
+  </test>
+</suite>
+

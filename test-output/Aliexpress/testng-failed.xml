@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Aliexpress]">
+  <listeners>
+    <listener class-name="com.aliexpress.utilities.Listener"/>
+  </listeners>
+  <test thread-count="5" name="AliexpressSuite(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="aliexpress.tests.AliExpressWorkflow">
+        <methods>
+          <include name="Buytheproductproductpagevalidation"/>
+          <include name="classsetup"/>
+          <include name="searchresultpagevalidation"/>
+          <include name="searchproduct"/>
+          <include name="productpagevalidation"/>
+          <include name="teardown"/>
+          <include name="presetup"/>
+        </methods>
+      </class> <!-- aliexpress.tests.AliExpressWorkflow -->
+    </classes>
+  </test> <!-- AliexpressSuite(failed) -->
+</suite> <!-- Failed suite [Aliexpress] -->
