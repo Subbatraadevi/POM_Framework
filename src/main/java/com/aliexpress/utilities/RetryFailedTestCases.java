@@ -4,7 +4,7 @@ package com.aliexpress.utilities;
 import org.testng.ITestResult;
 /***
  * To retry analyzer
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
  interface IRetryAnalyzer {

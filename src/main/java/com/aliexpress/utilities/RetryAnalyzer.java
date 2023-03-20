@@ -4,7 +4,7 @@ import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
  /***
   * To Implement Rerun for failed cases
-  * @author Admin
+  * @author Subha
   *
   */
 public class RetryAnalyzer implements IRetryAnalyzer {

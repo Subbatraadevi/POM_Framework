@@ -7,7 +7,7 @@ import com.aliexpress.actions.SearchPageAction;
 /***
  * Creating Object for each class in the action package
  * 
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 public class PageObjectmanager {

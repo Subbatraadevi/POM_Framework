@@ -2,7 +2,7 @@ package com.aliexpress.Pages;
 
 /***
  *  To initialize elements of Home Page identifier
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 

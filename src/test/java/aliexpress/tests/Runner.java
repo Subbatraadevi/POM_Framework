@@ -4,7 +4,7 @@ import org.testng.TestListenerAdapter;
 import org.testng.TestNG;
 /***
  * To setup runnar jar file
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 public class Runner {

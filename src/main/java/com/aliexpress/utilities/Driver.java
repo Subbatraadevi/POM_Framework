@@ -17,7 +17,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /***
  * To initiate Browser Driver
  * 
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 public class Driver {

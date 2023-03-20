@@ -2,7 +2,7 @@ package com.aliexpress.Pages;
 
 /***
  *  To initialize elements of Home Page identifier
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 
@@ -15,7 +15,7 @@ import com.aliexpress.testbase.TestBase;
 import com.aliexpress.utilities.Driver;
 /***
  * Home page
- * @author MKM
+ * @author Subha
  *
  */
 public class HomePage extends TestBase {

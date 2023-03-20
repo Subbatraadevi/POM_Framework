@@ -17,7 +17,7 @@ import com.relevantcodes.extentreports.LogStatus;
 /***
  * To set e Extent report
  * 
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 public class Reporting {

@@ -1,7 +1,7 @@
 package com.aliexpress.identifiers;
 /***
  * To keep locators in Ali express HomePage
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 public class HomePageIdentifiers {

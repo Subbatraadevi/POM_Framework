@@ -5,7 +5,7 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 /***
  * To log the TestNG ItestListener
- * @author manikandamani
+ * @author Subbatraadevi
  *
  */
 public class Listener implements ITestListener {

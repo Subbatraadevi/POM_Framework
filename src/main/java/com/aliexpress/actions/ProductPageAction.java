@@ -13,7 +13,7 @@ import com.aliexpress.utilities.Reporting;
 /***
  * To write methods for product page objects
  * 
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 

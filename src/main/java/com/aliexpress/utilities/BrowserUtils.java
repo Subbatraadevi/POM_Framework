@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 /***
  *  To keep Browser related resuable metthod
- * @author manikandamani
+ * @author Subbatraadevi
  *
  */
 public class BrowserUtils {

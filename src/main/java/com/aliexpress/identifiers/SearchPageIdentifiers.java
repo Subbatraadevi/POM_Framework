@@ -3,7 +3,7 @@ package com.aliexpress.identifiers;
 /***
  * To keep locators in Ali express Search Result Page
  * 
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 public class SearchPageIdentifiers {

@@ -13,7 +13,7 @@ import com.aliexpress.utilities.Reporting;
 /***
  * To write methods for Home page objects
  * 
- * @author Manikandamani
+ * @author Subbatraadevi
  *
  */
 
@@ -33,7 +33,7 @@ public class HomePageAction extends HomePage {
 			searchBox.sendKeys(Product);
 			searchButton.click();
 			
-			Assert.assertEquals(Driver.getDriver().getTitle(), "Computer – Buy Computer with free shipping on AliExpress version");
+			Assert.assertEquals(Driver.getDriver().getTitle(), "Computer ï¿½ Buy Computer with free shipping on AliExpress version");
 			report.logPortalExtentreport(Driver.getDriver(), logger, "PASS", "Expected :Product should be searched successfully Actual:Product searched successfully ",
 					"product search screen");
 
